@@ -1,3 +1,4 @@
+项目注释
 阿里云仓库地址:    http://maven.aliyun.com/nexus/content/groups/public        
 
 maven默认编译级别设置:
